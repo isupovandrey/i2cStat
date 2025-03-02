@@ -14,11 +14,6 @@
 Данные обновляются каждую секунду.
 </pre>
 
-
-
-
-
-
 ## Установка и использование
 
 ### Требования
@@ -34,10 +29,18 @@
    ```bash
    sudo pacman -S i2c-tools
    sudo modprobe i2c-dev
+
   ```bash
   git clone https://github.com/isupovandrey/i2cStat.git
   cd i2cStat
   sudo ./i2cStat
+```
+
+## Обратная связь
+
+Если у вас есть вопросы, предложения или вы хотите оставить отзыв о проекте, пожалуйста:
+- Создайте [Issue](https://github.com/isupovandrey/i2cStat/issues) для обсуждения проблем или идей.
+- Перейдите в [Discussions](https://github.com/isupovandrey/i2cStat/discussions), чтобы задать вопрос или пообщаться с сообществом.
 
 
 
