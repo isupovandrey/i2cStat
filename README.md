@@ -42,6 +42,8 @@
 - Создайте [Issue](https://github.com/isupovandrey/i2cStat/issues) для обсуждения проблем или идей.
 - Перейдите в [Discussions](https://github.com/isupovandrey/i2cStat/discussions), чтобы задать вопрос или пообщаться с сообществом.
 
+## Благодарности
+Проект был разработан с использованием ИИ DeepSeek.
 
 
 
